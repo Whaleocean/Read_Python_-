@@ -1,0 +1,6 @@
+对字典的迭代
+迭代字典的key for x in dict.key() #默认也是迭代key
+for x in dict
+迭代字典的value for y in dict.value()
+迭代key和value for x,y in dict.item()
+
